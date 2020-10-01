@@ -1,0 +1,18 @@
+{
+  "categories" : [
+    {"id": "camisetas", "title": "Camisetas"},
+    {"id": "calcas", "title": "Calças"}
+  ],
+
+  "products" : [
+    {"id": 1, "title": "Camiseta Front-ends", "price": 79.9, "category_id": "camisetas"},
+    {"id": 2, "title": "Camiseta CSharpolin", "price": 69.9, "category_id": "camisetas"},
+    {"id": 3, "title": "Calça preta back-end", "price": 169.9, "category_id": "calcas"},
+    {"id": 4, "title": "Calça azul do react", "price": 109.9, "category_id": "calcas"}
+  ],
+
+  "recommended" : [
+    {"id": 1, "title": "Camiseta Front-ends", "price": 79.9, "category_id": "camisetas"},
+    {"id": 4, "title": "Calça azul do react", "price": 109.9, "category_id": "calcas"}
+  ]
+}
